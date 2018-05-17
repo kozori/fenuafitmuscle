@@ -1,0 +1,23 @@
+.bodycolor{
+    font-family: "source code pro", Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+.h1Perso{
+    font-size: 40px;
+    color: #ff0019;
+}
+.pPerso{
+    color: #ffffff;
+}
+.p1{
+    font-size: 150px
+}
+.p1Perso{
+    color: #000000;
+}
+.p2{
+    font-size: 1.2em
+}
+.footerPerso{
+    background-color: #ff0019;
+}
